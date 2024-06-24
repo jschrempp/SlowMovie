@@ -183,6 +183,10 @@ sudo systemctl enable slowmovie
 
 And if something goes wrong, the first step is to check the logs for an error message. The command above will show the last few lines of the log file but you can view the entire file located at `/home/pi/SlowMovie/slowmovie.log` with any text editor.
 
+## Hardware
+
+You need to put your Slow Movie player in a nice frame, something to protect both the eInk display and the electronics. The wiki for this project has [a page with links to several plans.](https://github.com/TomWhitwell/SlowMovie/wiki/Guides-and-Frame-Links) 
+
 ## Maintainers
 
 * [@qubist](https://github.com/qubist)
